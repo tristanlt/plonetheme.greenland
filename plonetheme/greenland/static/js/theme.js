@@ -1,0 +1,5 @@
+
+function initializeplonethemegreenland(){
+
+}
+jQuery(initializeplonethemegreenland);

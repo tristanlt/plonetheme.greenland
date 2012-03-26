@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<object name="portal_javascripts">
+
+ <javascript
+    id="++theme++plonetheme.greenland/js/theme.js"/>
+
+ <javascript
+    id="++theme++plonetheme.greenland/js/modernizr.js"/>
+
+</object>

@@ -1,0 +1,4 @@
+<layers>
+    <layer name="Greenland Theme"
+           interface="plonetheme.greenland.browser.interfaces.IThemeSpecific" />
+</layers>
