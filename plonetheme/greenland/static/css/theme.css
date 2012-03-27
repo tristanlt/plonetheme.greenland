@@ -2263,4 +2263,12 @@ div.overlay .formControls a {
 #noTagsSelected, #oneOrMoreTagsSelected {
     display: none;
 }
+
+/* Misc section */
+
+.template-reflector_view .listing {
+	width: 100%;
+}
+
+
 /* @end */
