@@ -2266,9 +2266,35 @@ div.overlay .formControls a {
 
 /* Misc section */
 
-.template-reflector_view .listing {
+..listing {
 	width: 100%;
 }
-
+#listing-table_wrapper {
+	position: relative;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+#listing-table_lenght {
+	float: left;
+}
+#listing-table_filter {
+	margin-top: -1.5em;
+	padding-bottom: 1em;
+	float: right;
+}
+#listing-table {
+	width: 100%;
+}
+a.paginate_disabled_previous, a.paginate_disabled_next {
+	color: grey;
+}
+.dataTables_paginate a {
+	margin: 1em;
+	padding-bottom: 15px;
+}
+#listing-table_paginate {
+	float: right;
+	margin-top: -1.5em;
+}
 
 /* @end */

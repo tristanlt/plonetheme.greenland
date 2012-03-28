@@ -4,6 +4,9 @@ function initializeplonethemegreenland(){
 jQuery(initializeplonethemegreenland);
 
 $(document).ready(function() {
-    $('.template-reflector_view .listing').dataTable();
+    $('.listing').dataTable({
+    	 "bAutoWidth": false,
+    	 "aLengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]
+    	} );
 } );
 
