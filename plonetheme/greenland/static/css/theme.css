@@ -2266,6 +2266,15 @@ div.overlay .formControls a {
 
 /* Misc section */
 
+.portletNavigationTree img {
+	display: none;
+}
+.portletNavigationTree .contenttype-document, .portletNavigationTree .contenttype-event, .portletNavigationTree .contenttype-folder, .portletNavigationTree .contenttype-link, .portletNavigationTree .contenttype-news-item, .portletNavigationTree .contenttype-plone-site, .portletNavigationTree .contenttype-collection, .portletNavigationTree .contenttype-topic, .portletNavigationTree #plone-contentmenu-factories .contenttype-file, .portletNavigationTree #plone-contentmenu-factories .contenttype-image.portletNavigationTree {
+    display: inline-block;
+    line-height: 2em;
+    padding-left: 0px !important;
+}
+
 ..listing {
 	width: 100%;
 }
