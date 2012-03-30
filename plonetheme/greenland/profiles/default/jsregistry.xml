@@ -10,7 +10,6 @@
 <javascript
     id="++theme++plonetheme.greenland/js/jquery.dataTables.js"/>
 
-<javascript
-    id="++theme++plonetheme.greenland/js/table_sorter.js"/>
+<javascript remove="True" id="table_sorter.js" />
 
 </object>
