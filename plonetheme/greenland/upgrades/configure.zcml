@@ -10,5 +10,13 @@
         profile="plonetheme.greenland:default"
         handler=".v1000_to_1001.upgrade_1000_to_1001"
         />
+	<upgradeStep
+        source="1001"
+        destination="1002"
+        title="Upgrade"
+        description=""
+        profile="plonetheme.greenland:default"
+        handler=".v1001_to_1002.upgrade_1001_to_1002"
+        />
 
 </configure>
