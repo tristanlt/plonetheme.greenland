@@ -5,7 +5,7 @@
     id="++theme++plonetheme.greenland/css/grid.css"
     expression="request/HTTP_X_THEME_ENABLED | nothing"/>
  <stylesheet
-    id="++theme++plonetheme.greenland/css/theme.css"
+    id="theme.css"
     expression="request/HTTP_X_THEME_ENABLED | nothing"/>
 
 </object>
